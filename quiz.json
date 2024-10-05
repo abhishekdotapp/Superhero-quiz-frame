@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of superheroes!",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is Bruce Wayne?",
+      "answers": ["Batman", "Ironman", "Superman"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Thor's weapon?",
+      "answers": ["Mjolnir", "Sword", "Shield"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is Peter Parker?",
+      "answers": ["Hulk", "Flash", "Spiderman"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Superman's weakness?",
+      "answers": ["Fire", "Iron", "Kryptonite"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who is the Black Panther?",
+      "answers": ["T'Challa", "Tony", "Clark"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Wonder Woman?",
+      "answers": ["Diana", "Natasha", "Lois"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Tony Stark's suit called?",
+      "answers": ["Bat", "Iron", "Spider"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who is the God of Mischief?",
+      "answers": ["Loki", "Thor", "Hades"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What color is Hulk?",
+      "answers": ["Blue", "Red", "Green"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who is Steve Rogers?",
+      "answers": ["Batman", "Ironman", "Cap"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Wolverine's claws made of?",
+      "answers": ["Steel", "Vibranium", "Adamantium"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who leads the X-Men?",
+      "answers": ["Logan", "Magneto", "Charles"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Green Lantern's power source?",
+      "answers": ["Ring", "Crown", "Cape"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where is Superman from?",
+      "answers": ["Krypton", "Mars", "Earth"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who can shrink in size?",
+      "answers": ["Flash", "Ant-Man", "Thor"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Flash's power?",
+      "answers": ["Strength", "Speed", "Flight"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What does Black Widow use?",
+      "answers": ["Guns", "Magic", "Lasers"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Aquaman?",
+      "answers": ["Arthur", "Clark", "Steve"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does Hawkeye use?",
+      "answers": ["Sword", "Gun", "Bow"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Captain Marvel's name?",
+      "answers": ["Carol", "Diana", "Natasha"],
       "correctAnswerIndex": 0
     }
   ]
